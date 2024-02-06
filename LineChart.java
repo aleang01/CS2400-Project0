@@ -31,23 +31,23 @@ public class LineChart {
 
         
         System.out.print("\nAbility 1: ");
-        for(int i = 1; i <= userAbility1 / 10; i++){
+        for(int i = 1; i <= userAbility1 / 5; i++){
             System.out.print("-");
         }
         System.out.print("\nAbility 2: ");
-        for(int i = 1; i <= userAbility2 / 10; i++){
+        for(int i = 1; i <= userAbility2 / 5; i++){
             System.out.print("-");
         }
         System.out.print("\nAbility 3: ");
-        for(int i = 1; i <= userAbility3 / 10; i++){
+        for(int i = 1; i <= userAbility3 / 5; i++){
             System.out.print("-");
         }
         System.out.print("\nAbility 4: ");
-        for(int i = 1; i <= userAbility4 / 10; i++){
+        for(int i = 1; i <= userAbility4 / 5; i++){
             System.out.print("-");
         }
         System.out.print("\nAbility 5: ");
-        for(int i = 1; i <= userAbility5 / 10; i++){
+        for(int i = 1; i <= userAbility5 / 5; i++){
             System.out.print("-");
         }
 

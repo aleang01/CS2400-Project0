@@ -3,7 +3,10 @@
 // Assignment 4
 // 10.10.2023
 
-
+/** This is a program that will take an integer input from a user, and output that as "-", with each 
+ * "-" representing 5.
+ * 
+ */
 import java.util.Scanner;
 
 public class LineChart {
